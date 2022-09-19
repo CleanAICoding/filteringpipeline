@@ -14,9 +14,8 @@ autopep8 = "1.6.0"
 
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
-
+requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
 
 
 [tool.pytest.ini_options]
@@ -36,3 +35,7 @@ in-place = true
 recursive = true
 aggressive = 3
 
+
+
+
+[tool.setuptools_scm]
