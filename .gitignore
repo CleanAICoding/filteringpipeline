@@ -15,3 +15,5 @@ data
 nosetests.xml
 coverage.xml
 
+# Pypi
+dist/
