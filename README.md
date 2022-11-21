@@ -57,7 +57,7 @@ See test coverage : [TO COMPLETE]
 
 ## Preprocessing pipeline 
 
-- [How does the preprocessing pipeline works?](docs/pipeline_preprocessing/pipeline.md)
+- [How does the preprocessing pipeline works?](docs/pipeline.md)
 
 
 ## Good pratices 
