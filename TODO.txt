@@ -1,0 +1,9 @@
+Use-cas :
+
+1 folder contenant n fichiers consitués de x_i feuilles.
+Resultat : n fichiers de tailles t_i
+
+
+TODO :
+- Add a sink (exemple donné dans sketchai)
+- Regarder ce qu'il se passe au niveau du last message.

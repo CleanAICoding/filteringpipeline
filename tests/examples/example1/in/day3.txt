@@ -1,0 +1,13 @@
+Day: 07-29-2024
+Equestrian Team:
+    Gold: GBR
+    Silver: FRA
+    Bronze: JPN
+Equestrian Individual:
+    Gold: GER
+    Silver: AUS
+    Bronze: GBR
+Fencing-WIS:
+    Gold: FRA
+    Silver: FRA
+    Bronze: UKR

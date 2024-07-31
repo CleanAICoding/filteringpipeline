@@ -59,6 +59,10 @@ See test coverage : [TO COMPLETE]
 
 - [How does the preprocessing pipeline works?](docs/pipeline_preprocessing/pipeline.md)
 
+## Examples 
+
+- [Example for data cad preprocessing](https://github.com/sketchai/preprocessing)
+- [Example 1](tests/examples/example1): Read all the data of a folder.
 
 ## Good pratices 
 

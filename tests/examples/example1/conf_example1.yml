@@ -1,0 +1,38 @@
+General:
+  l_filters: [Example1_SubPipelineFilter] 
+  source : Source_ReadInFolder
+  sink : Example1_Sink # Can be None
+  n_process : 1
+
+# Source
+Source_ReadInFolder:
+  type: SourceFolder
+  parms:
+    folder_path : 'tests/examples/example1/in'
+
+Example1_SubPipelineFilter:
+  type: MockSubPipelineFilter
+  source: Source_ReadFile
+  sink: Sink_SaveInFile
+  parms:
+    l_filters : [MockFilter]
+
+Source_ReadFile:
+  type: SourceList
+  parms:
+    l_data: []
+
+Sink_SaveInFile:
+  type: 
+  parms:
+    output_path: 'tests/examples/example1/out'
+
+Example1_Sink:
+  type: MockSink
+  parms:
+    output_path: 'tests/asset/out/my_data.txt'
+
+
+
+
+  

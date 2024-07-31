@@ -1,0 +1,13 @@
+Day: 07-27-2024
+Plung:    
+    Gold: CHN
+    Silver: USA
+    Bronze: GBR
+Rugby Sevens-M:
+    Gold: FRA
+    Silver: FIJ
+    Bronze: RSA
+Fencing-WIE:
+    Gold:HKG
+    Silver: FRA
+    Bronze: HUN

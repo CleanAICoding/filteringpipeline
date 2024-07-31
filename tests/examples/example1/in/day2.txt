@@ -1,0 +1,13 @@
+Day: 07-28-2024
+Fencing-MIE:
+    Gold: JPN
+    Silver: FRA
+    Bronze: UKR
+Swimming-MIM400:
+    Gold: FRA
+    Silver: JPN
+    Bronze: USA
+Archery-W:
+    Gold: KOR
+    Silver: CHN
+    Bronze:MEX
